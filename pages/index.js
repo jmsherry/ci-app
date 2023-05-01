@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
-          <h1>Staging Change</h1>
+          <h1>Staging Title Change</h1>
         </div>
       </main>
     </>
